@@ -24,7 +24,7 @@ La generación de datos usa una semilla fija (`np.random.seed(42)`),
 por lo que ejecutar el notebook siempre produce el mismo dataset.
 
 ## Integrantes GRUPO 6
-Castillo Jamel Alejandra
+- Castillo Jamel Alejandra
 - Castillo Ashly Marieth
 - De Gracia Yahelys
 - Donoso David Antonio
