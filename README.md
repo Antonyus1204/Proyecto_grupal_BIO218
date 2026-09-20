@@ -25,8 +25,8 @@ por lo que ejecutar el notebook siempre produce el mismo dataset.
 
 ## Integrantes GRUPO 6
 Castillo Jamel Alejandra
--Castillo Ashly Marieth
--De Gracia Yahelys
--Donoso David Antonio
--Gill Liz Denis
--Castillo Francia
+- Castillo Ashly Marieth
+- De Gracia Yahelys
+- Donoso David Antonio
+- Gill Liz Denis
+- Castillo Francia
